@@ -1,0 +1,17 @@
+name: vis-env
+channels:
+  - conda-forge
+  - defaults
+dependencies:
+  - python=3.12
+  - matplotlib
+  - jupyter
+  - seaborn
+  - pandas
+  - numpy
+  - bokeh
+  - pygwalker
+  - holoviews
+  - geopandas
+  - geoplot
+  - rise
