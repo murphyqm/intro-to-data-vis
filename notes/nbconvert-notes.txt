@@ -1,0 +1,12 @@
+https://stackoverflow.com/questions/49907455/hide-code-when-exporting-jupyter-notebook-to-html
+
+jupyter nbconvert introduction_talk.ipynb --no-input --to html
+
+jupyter nbconvert introduction_talk.ipynb --to slides --post serve --no-input --no-prompt
+
+
+### USeful links
+
+https://longitude.ft.com/10-data-visualisations-that-changed-the-world-of-information-design/
+
+https://stackoverflow.com/questions/14675913/changing-image-size-in-markdown
